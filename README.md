@@ -9,5 +9,7 @@ USAGE:
 
 docker-compose up
 
+In the same directory where you have saved the yml file.
 
-then your local machine will listen on port 3000 TCP and wizard of Rocket Chat will start.
+Then your local machine will start listening on port 3000 TCP and a wizard of Rocket Chat will start.
+
