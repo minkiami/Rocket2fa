@@ -5,11 +5,11 @@ authenticators.
 Since I couldn't wait for it to be merged with the main project I have just modified it a bit to point to a docker image in my docker
 hub, so it works without problems.
 
-USAGE:
+Installation:
+
+curl -o docker-compose.yml https://github.com/minkiami/Rocket2fa/blob/master/docker-compose.yml
 
 docker-compose up
-
-In the same directory where you have saved the yml file.
 
 Then your local machine will start listening on port 3000 TCP and a wizard of Rocket Chat will start.
 
