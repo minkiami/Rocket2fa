@@ -7,7 +7,7 @@ hub, so it works without problems.
 
 Installation:
 
-curl -o docker-compose.yml https://github.com/minkiami/Rocket2fa/blob/master/docker-compose.yml
+curl -o docker-compose.yml https://raw.githubusercontent.com/minkiami/Rocket2fa/master/docker-compose.yml
 
 docker-compose up
 
