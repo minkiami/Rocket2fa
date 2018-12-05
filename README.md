@@ -21,4 +21,4 @@ curl -o docker-compose.yml https://raw.githubusercontent.com/minkiami/Rocket2fa/
 docker-compose up -d
 ```
 
-The original project of Rocket Chat can be found [here](https://github.com/RocketChat/)
+The original project can be found [here](https://github.com/RocketChat/).
