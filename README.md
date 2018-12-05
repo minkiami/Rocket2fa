@@ -16,7 +16,7 @@ Download the yaml file:
 ```
 curl -o docker-compose.yml https://raw.githubusercontent.com/minkiami/Rocket2fa/master/docker-compose.yml
 ```
-Then start a new instance of docker chat listening on TCP 3000.
+Then start a new instance of docker chat listening on localhost:3000.
 ```
 docker-compose up -d
 ```
