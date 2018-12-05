@@ -5,7 +5,7 @@ authenticators.
 Since I couldn't wait for it to be merged with the main project I have just modified it a bit to point to a docker image in my docker
 hub, so it works without problems.
 
-###### Installation
+## Installation
 
 Create a new folder:
 ```
