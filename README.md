@@ -7,16 +7,16 @@ hub, so it works without problems.
 
 ## Installation
 
-Create a new folder:
+- Create a new folder:
 ```
 mkdir rocketchat
 cd rocketchat/
 ```
-Download the yaml file:
+- Download the yaml file:
 ```
 curl -o docker-compose.yml https://raw.githubusercontent.com/minkiami/Rocket2fa/master/docker-compose.yml
 ```
-Then start a new instance of docker chat listening on localhost:3000.
+- Then start a new instance of docker chat listening on localhost:3000.
 ```
 docker-compose up -d
 ```
