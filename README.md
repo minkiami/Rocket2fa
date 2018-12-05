@@ -18,5 +18,5 @@ curl -o docker-compose.yml https://raw.githubusercontent.com/minkiami/Rocket2fa/
 ```
 Then start a new instance of docker chat listening on TCP 3000.
 ```
-docker-compose -d up
+docker-compose up -d
 ```
